@@ -25,6 +25,7 @@ foo();
 
 bar();
 
+foo()
 
 } 
 catch ( Exception $e ) 
