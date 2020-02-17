@@ -23,7 +23,7 @@ $mm->send();
 
 foo();
 
-bar();
+foo();
 
 
 
