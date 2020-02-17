@@ -6,6 +6,8 @@
  <?php echo '<p>Hello World</p>'; ?> 
  
  foo();
+  
+  bar();
  
  </body>
 </html>
