@@ -23,9 +23,7 @@ $mm->send();
 
 foo();
 
-foo();
 
-bar();
 
 } 
 catch ( Exception $e ) 
