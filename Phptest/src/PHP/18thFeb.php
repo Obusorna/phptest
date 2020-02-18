@@ -6,7 +6,7 @@ initConnetAPI();
 
 try{
   
-  
+foo();
 
 bar();
 
